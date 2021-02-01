@@ -1,4 +1,4 @@
-### 👋 欢迎来到 Get糖果 的 github
+### 👋 欢迎来到 Get 不乖 的 github
 
 [![Github](https://img.shields.io/github/followers/getbuguai?label=Follow&style=plastic)](https://github.com/getbuguai)
 ![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/65?logoColor=white%26project=%26recentMS=0%26showProject=true)
