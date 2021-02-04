@@ -10,14 +10,14 @@
 
 <details>
     <summary>支付宝</summary>
-   <img src="https://cdn.jsdelivr.net/gh/getbuguai/getbuguai/weixin.png"
+   <img src="https://cdn.jsdelivr.net/gh/getbuguai/getbuguai/zhifubao.jpg"
      alt="支付宝收款">
 </details>
 
 <details>
     <summary>微信</summary>
      <img class="fit-picture"
-     src="https://cdn.jsdelivr.net/gh/getbuguai/getbuguai/zhifubao.jpg"
+     src="https://cdn.jsdelivr.net/gh/getbuguai/getbuguai/weixin.png"
      alt="微信收款">
 </details>
 
@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 #### 赞助
 <details>
     <summary>支付宝</summary>
-   <img src="https://cdn.jsdelivr.net/gh/getbuguai/getbuguai/weixin.png"
+   <img src="https://cdn.jsdelivr.net/gh/getbuguai/getbuguai/zhifubao.jpg"
      alt="支付宝收款">
 </details>
 <details>
     <summary>微信</summary>
      <img class="fit-picture"
-     src="https://cdn.jsdelivr.net/gh/getbuguai/getbuguai/zhifubao.jpg"
+     src="https://cdn.jsdelivr.net/gh/getbuguai/getbuguai/weixin.png"
      alt="微信收款">
 </details>
 > 如有问题可以进行备注
