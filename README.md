@@ -10,7 +10,7 @@
 - [GitPage 主页: https://getbuguai.github.io/](https://getbuguai.github.io/) 
 - QQ群: [ 不乖的程序交流群: 487090042 ]
 
-#### 赞助
+#### 请作者喝杯奶茶
 
 <details>
     <summary>支付宝</summary>
