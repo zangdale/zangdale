@@ -16,6 +16,7 @@
     <summary>支付宝</summary>
    <img src="https://cdn.jsdelivr.net/gh/getbuguai/getbuguai/zhifubao.jpg"
      alt="支付宝收款">
+    加载失败访问: https://cdn.jsdelivr.net/gh/getbuguai/getbuguai/zhifubao.jpg
 </details>
 
 <details>
@@ -23,6 +24,7 @@
      <img class="fit-picture"
      src="https://cdn.jsdelivr.net/gh/getbuguai/getbuguai/weixin.png"
      alt="微信收款">
+     加载失败访问: https://cdn.jsdelivr.net/gh/getbuguai/getbuguai/weixin.png
 </details>
 
 > 如有问题可以进行备注
