@@ -31,9 +31,10 @@
 
 #### My Github Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=getbuguai)](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api?username=getbuguai&theme=dark&show_icons=true">](https://github.com/getbuguai)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getbuguai&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+<!-- align="right" width="40%" height="170" -->
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getbuguai&theme=dark&show_icons=true&hide=javascript,html,css">](https://github.com/getbuguai)
 
 #### 请作者喝杯奶茶
 
