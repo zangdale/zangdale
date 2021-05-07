@@ -12,6 +12,8 @@
 
 #### Project
 
+* [exercisecode (练习/测试)](https://github.com/getbuguai/exercisecode): 自己平时的练习代码和笔记. (不定期更新)
+* [scip (端口扫描)](https://github.com/getbuguai/scip): 一个 GO 语言实现的 IP 地址开放端口扫描. (还不错)
 * [wget (下载器)](https://github.com/getbuguai/wget)：一个 GO 语言实现的支持插件注册的命令行下载器. (指定网站指定下载流程)
 * [bg-jijian (壁纸下载器)](https://github.com/getbuguai/bg-jijian): 极简壁纸官方的批量下载工具. (扒站专用)
 * [boozu (爆竹插件)](https://github.com/getbuguai/boozu): FireFox 火狐浏览器获取网站 Cookie 的插件,一键查看网站的 Cookie , 点击即可复制. (爬虫利器)
