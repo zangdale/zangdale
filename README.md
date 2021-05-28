@@ -12,6 +12,8 @@
 
 #### Project
 
+* [fts (搜索引擎)](https://github.com/getbuguai/fts): 简单的全文搜索引擎. (强自定义)
+* [gox (golang拓展)](https://github.com/getbuguai/gox): golang 的无第三方依赖拓展包. (依赖 google 官方)
 * [exercisecode (练习/测试)](https://github.com/getbuguai/exercisecode): 自己平时的练习代码和笔记. (不定期更新)
 * [scip (端口扫描)](https://github.com/getbuguai/scip): 一个 GO 语言实现的 IP 地址开放端口扫描. (还不错)
 * [wget (下载器)](https://github.com/getbuguai/wget)：一个 GO 语言实现的支持插件注册的命令行下载器. (指定网站指定下载流程)
