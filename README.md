@@ -35,10 +35,10 @@
 
 #### My Github Stats
 
-[<img src="https://github-readme-stats.vercel.app/api?username=getbuguai&theme=dark&show_icons=true">](https://github.com/getbuguai)
-
-<!-- align="right" width="40%" height="170" -->
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getbuguai&theme=dark&show_icons=true&hide=javascript,html,css,python,scss">](https://github.com/getbuguai)
+<div>
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=getbuguai&count_private=true&show_icons=true&hide=issues&layout=compact&hide_border=true" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getbuguai&layout=compact&hide_border=true&hide=javascript,html,css,python,scss" />
+</div>
 
 #### 请作者喝杯奶茶
 
